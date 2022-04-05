@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="image/logo.png" width="450">
+  <img src="image/logo.png" width="500">
 </div>
 
 ## AwesomeStructure

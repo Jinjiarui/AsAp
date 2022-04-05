@@ -1,8 +1,6 @@
-```
 <div align="left">
   <img src="image/logo.png" width="350">
 </div>
-```
 
 ## AwesomeStructure
 

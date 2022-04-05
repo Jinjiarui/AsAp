@@ -1,2 +1,2 @@
 ## AwesomeStructure
-A toolkit to efficiently build structure-based models (i.e., sequence-based and graph-based) and evaluate on tabular datasets.
+A toolkit to efficiently build structure-based models (i.e., sequence-based and graph-based) and evaluate on tabular datasets. Besides some widely adopted classicial models, we also include several recently proposed series of recommendation algorithms: (i) AngelRec: enhancing the recommendation performance by pre-defined logics (so called metapath), (ii) HingeRec: enhancing the recommendation performance by interaction modules (especially convolution operations), (iii) StaRec: enhancing the recommendation performance by searching and retrieving relevant data.

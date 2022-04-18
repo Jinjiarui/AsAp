@@ -24,7 +24,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-full_data/
 .idea/
 .vscode/
 *.npy
@@ -241,7 +240,6 @@ sympy-plots-for-*.tex/
 *.bak
 *.sav
 *.DS_Store
-/data/
 /out/
 *.pdf
 *.pem

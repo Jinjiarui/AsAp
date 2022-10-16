@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="550">
+  <img src="logo.jpg" width="550">
 </div>
 
 ## Awesome Structure Awesome Pattern (AsAp)
